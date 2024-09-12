@@ -7,6 +7,7 @@ node_modules/
 
 # CDK
 **/*cdk.out
+**/*cdk.context.json
 
 # onboard.sh artifacts
 artifacts
